@@ -45,7 +45,34 @@
     "quickInput.foreground": "#fff",
     "quickInputTitle.background": "#000",
     "quickInputList.focusBackground": "#111",
-    "quickInputList.focusForeground": "#fff"
+    "quickInputList.focusForeground": "#fff",
+
+    "editorGroupHeader.tabsBackground": "#000",
+    "editorGroupHeader.tabsBorder": "#000",
+    "editorGroupHeader.border": "#000",
+    "editorGroupHeader.noTabsBackground": "#000",
+
+    "tab.activeBackground": "#000",
+    "tab.unfocusedActiveBackground": "#000",
+    "tab.inactiveBackground": "#000",
+    "tab.unfocusedInactiveBackground": "#000",
+
+    "tab.hoverBackground": "#000",
+    "tab.unfocusedHoverBackground": "#000",
+
+    "tab.border": "#000",
+    "tab.activeBorder": "#666",
+    "tab.unfocusedActiveBorder": "#000",
+    "tab.activeBorderTop": "#f00",
+    "tab.unfocusedActiveBorderTop": "#000",
+    "tab.selectedBorderTop": "#f00",
+
+    "tab.activeForeground": "#f55",
+    "tab.inactiveForeground": "#888",
+    "tab.unfocusedActiveForeground": "#aaa",
+    "tab.unfocusedInactiveForeground": "#666",
+    "tab.hoverForeground": "#fff",
+    "tab.unfocusedHoverForeground": "#ccc",
 
   },
 
@@ -53,5 +80,6 @@
     "comments": "#6a9955",
     "strings": "#ce9178",
     "keywords": "#48f",
-  }
+  },
+  "custom-ui-style.font.sansSerif": "\"Carbon Plus\", Inter, \"Segoe UI\", sans-serif"
 }
