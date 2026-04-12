@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+alt+c",
+    "command": "chatgpt.openSidebar"
+  },
+  {
+    "key": "ctrl+alt+n",
+    "command": "chatgpt.newChat"
+  }
+]
