@@ -83,7 +83,7 @@
     "editor.wordHighlightTextBackground": "#00aaff44",
     "editor.wordHighlightBorder": "#ffcc00",
     "editor.wordHighlightStrongBorder": "#ff8800",
-    "editor.wordHighlightTextBorder": "#00aaff"
+    "editor.wordHighlightTextBorder": "#00aaff",
 
 
     "linesight.count.zero": "#FFF",
@@ -92,7 +92,7 @@
     "linesight.count.hundreds": "#0AF",
     "linesight.count.thousands": "#FF0",
     "linesight.count.tenThousands": "#F00",
-    "linesight.count.hundredThousands": "800",    
+    "linesight.count.hundredThousands": "#800",
     "linesight.count.millions": "#800"
 
   },
@@ -100,7 +100,7 @@
   "editor.tokenColorCustomizations": {
     "comments": "#6a9955",
     "strings": "#ce9178",
-    "keywords": "#48f",
+    "keywords": "#48f"
   },
   "custom-ui-style.font.sansSerif": "\"Carbon Plus\", Inter, \"Segoe UI\", sans-serif"
 }
