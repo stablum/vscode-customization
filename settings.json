@@ -6,6 +6,10 @@
   "terminal.integrated.cursorStyleInactive": "outline",
   "editor.cursorStyle": "block",
   "editor.cursorBlinking": "blink",
+  "editor.fontFamily": "IosevkaTerm Nerd Font Mono",
+  "editor.fontWeight": "300",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.45,
 
   "workbench.colorCustomizations": {
     "editor.background": "#000",
@@ -73,6 +77,23 @@
     "tab.unfocusedInactiveForeground": "#666",
     "tab.hoverForeground": "#fff",
     "tab.unfocusedHoverForeground": "#ccc",
+
+    "editor.wordHighlightBackground": "#ffcc0055",
+    "editor.wordHighlightStrongBackground": "#ff880066",
+    "editor.wordHighlightTextBackground": "#00aaff44",
+    "editor.wordHighlightBorder": "#ffcc00",
+    "editor.wordHighlightStrongBorder": "#ff8800",
+    "editor.wordHighlightTextBorder": "#00aaff"
+
+
+    "linesight.count.zero": "#FFF",
+    "linesight.count.ones": "#FFF",
+    "linesight.count.tens": "#6EF",
+    "linesight.count.hundreds": "#0AF",
+    "linesight.count.thousands": "#FF0",
+    "linesight.count.tenThousands": "#F00",
+    "linesight.count.hundredThousands": "800",    
+    "linesight.count.millions": "#800"
 
   },
 
