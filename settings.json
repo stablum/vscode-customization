@@ -9,7 +9,7 @@
   "editor.fontFamily": "IosevkaTerm Nerd Font Mono",
   "editor.fontWeight": "300",
   "editor.fontSize": 14,
-  "editor.lineHeight": 1.45,
+  "editor.lineHeight": 0.0,
 
   "workbench.colorCustomizations": {
     "editor.background": "#000",
@@ -17,6 +17,7 @@
     "panel.background": "#000",
     "activityBar.background": "#000",
     "statusBar.background": "#000",
+    "terminal.background": "#000000",
     "terminalCursor.foreground": "#f00",
     "terminalCursor.background": "#000",
     "editorCursor.foreground": "#f00",
